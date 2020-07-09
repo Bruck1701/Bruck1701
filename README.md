@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bruno Kümmel, a Digital Nomad/Developer currently living in Windhoek/Namibia 🏜️ . I am an Open Source enthusiast always looking for new learning opportunities! Thoughout the years, my work experience has been quite diverse: salesman, police officer, teacher, and developer on a 'secret' government ~lair~ lab 😅! 
+My name is Bruno Kümmel, a Digital Nomad/Developer currently living in Windhoek/Namibia 🏜️ . I am an Open Source enthusiast always looking for new learning opportunities! Throughout the years, my work experience has been quite diverse: salesman, police officer, teacher, and developer on a 'secret' government ~lair~ lab 😅! 
 <br><br>
 I have a comfortable knowledge of Python, SQL, some Machine Learning libraries, and AWS services (I am a certified AWS Solutions Architect, studying for the Developer Associate Certification). In my tech career I have mostly worked as a Backend developer and SysAdmin. 
 Now my goal is to level up to become a Full-Stack Developer, learning Ruby on Rails and ReactJS as my first steps into this new Realm.
